@@ -4,7 +4,7 @@ export default function Navbar() {
       <div className="container mx-auto px-6 py-4 flex justify-between items-center">
         {/* Logo */}
         <a href="#" className="text-2xl font-semibold text-gray-800">
-          ShopLogo
+          TechStore
         </a>
 
         {/* Navigation Links */}
