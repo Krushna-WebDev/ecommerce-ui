@@ -13,10 +13,6 @@ This is a **static frontend** project designed for showcasing in my web design p
 ✅ **Testimonials** – User reviews section for credibility  
 ✅ **Footer** – Clean and simple footer with essential links  
 
-## 📸 Preview
-
-![Modern Shop UI Preview](your-image-link-here)
-
 ## ✨ Live Demo
 
 🔗 [Live Demo](https://modern-shop-ui.netlify.app)  
